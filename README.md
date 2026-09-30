@@ -2,7 +2,7 @@
 
 컴퓨터소프트웨어를 전공하고 크래프톤 정글 12기를 수료했습니다. 개인·팀 프로젝트에서 Spring Boot 기반 서비스 개발, 테스트·QA, 배포 자동화 경험을 쌓고 있습니다.
 
-**메인 포트폴리오:** [hos0ek71](https://github.com/hos0ek71) · **다른 프로젝트 계정:** [JUHOSEOK](https://github.com/JUHOSEOK)
+**메인 포트폴리오:** [hos0ek71](https://github.com/hos0ek71) · **크래프톤 프로젝트 계정:** [JUHOSEOK](https://github.com/JUHOSEOK)
 
 ## 대표 프로젝트
 
