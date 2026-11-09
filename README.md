@@ -7,7 +7,7 @@
 ## 🔎 핵심 역량
 
 - **기능·권한 검증** — 관리자 화면 지표 정합성 수정, 로그인·일반 사용자·관리자별 접근 허용/차단 테스트
-- **API·DB 연동** — 외부 대중교통 API 응답 처리, PostgreSQL 모델·Alembic 마이그레이션, Oracle 트랜잭션
+- **API·DB 연동** — 외부 대중교통 API 응답 처리, PostgreSQL 모델·Alembic 마이그레이션
 - **실행 환경·CI** — Docker Compose·AWS·Nginx 환경, GitHub Actions 빌드·테스트 및 OpenAPI 검증
 - **인증·실시간 흐름** — WebSocket 연결 URL의 JWT를 Redis 1회용 티켓 방식으로 개선, REST 저장·실시간 갱신·재연결 흐름 확인
 
